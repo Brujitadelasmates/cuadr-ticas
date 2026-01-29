@@ -1,0 +1,5 @@
+{
+  "name": "Quadratic Master - Animated Math Visualizer",
+  "description": "An interactive learning tool that visualizes how coefficients map to the quadratic formula, featuring physics-based animations and AI-powered step-by-step explanations.",
+  "requestFramePermissions": []
+}
